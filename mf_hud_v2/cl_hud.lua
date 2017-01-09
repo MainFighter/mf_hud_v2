@@ -1,6 +1,6 @@
 HUDSettings = {} -- Don't remove this
 --[[
-This HUD was made by Anonymous (http://steamcommunity.com/profiles/76561198027291542).
+This HUD was made by Main Fighter (http://steamcommunity.com/profiles/76561198230883500).
 Please don't remove the credits. No one will see them besides you anyway! Thank you for understanding.
 
 This is abondened if you need help with this version of my HUD I will not provide it.
